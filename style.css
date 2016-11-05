@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+
+body {
+    text-align: center;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 1.5em;
+    color: white;
+    background-color: #222;
+}
+
+#city, #country {
+    color: #4286f4;
+}
+
+#clouds,
+#sunny,
+#rainy,
+#windy,
+#snow,
+#haze {
+    font-size: 2.5em;
+    display: none;
+}
+
+#credit {
+    font-size: 0.6em;
+}
+
+#credit a,
+#credit a:hover,
+#credit a:visited {
+    text-decoration: none;
+    color:#4286f4;
+    border:none;
+}
