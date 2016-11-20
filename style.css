@@ -46,9 +46,3 @@ body {
     cursor: pointer;
     color:rgb(136, 24, 136);
 }
-
-#metric:active {
-    cursor: pointer;
-    color: #4286f4;
-    border: none;
-}
