@@ -12,12 +12,13 @@ body {
     color: #4286f4;
 }
 
+#thunderstorm,
+#drizzle,
+#rain,
+#atmosphere,
+#clear,
 #clouds,
-#sunny,
-#rainy,
-#windy,
-#snow,
-#haze {
+#showerRain {
     font-size: 2.5em;
     display: none;
 }
