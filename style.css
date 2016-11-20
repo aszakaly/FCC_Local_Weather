@@ -19,12 +19,13 @@ body {
 #clear,
 #clouds,
 #showerRain {
-    font-size: 2.5em;
+    font-size: 3em;
     display: none;
 }
 
 #credit {
-    font-size: 0.6em;
+    font-size: 0.5em;
+    margin-top: 30px;
 }
 
 #credit a,
@@ -33,4 +34,21 @@ body {
     text-decoration: none;
     color:#4286f4;
     border:none;
+}
+
+#metric {
+    background-color: #222;
+    border: none;
+    color: #4286f4;
+}
+
+#metric:hover {
+    cursor: pointer;
+    color:rgb(136, 24, 136);
+}
+
+#metric:active {
+    cursor: pointer;
+    color: #4286f4;
+    border: none;
 }
